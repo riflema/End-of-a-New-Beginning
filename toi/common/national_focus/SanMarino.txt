@@ -151,7 +151,7 @@ focus_tree = {
 
 	}
 	focus = {
-		id = generic_focus_industry
+		id = SNM_focus_industry
 		icon = GFX_goal_generic_construct_civ_factory
 		x = 4
 		y = 0
@@ -167,7 +167,7 @@ focus_tree = {
 	}
 	
 	focus = {
-		id = generic_focus_mechanical_engineering
+		id = SNM_focus_mechanical_engineering
 		icon = GFX_goal_focus_industrial_revolution
 		x = 2
 		y = 1
@@ -184,7 +184,7 @@ focus_tree = {
 	}
 	
 	focus = {
-		id = generic_focus_electronics_devices
+		id = SNM_focus_electronics_devices
 		icon = GFX_goal_generic_consumer_goods
 		x = 0
 		y = 1
@@ -201,7 +201,7 @@ focus_tree = {
 	}
 	
 	focus = {
-		id = generic_focus_expand_research_facilities
+		id = SNM_focus_expand_research_facilities
 		icon = GFX_focus_research2
 		x = 1
 		y = 2
@@ -218,7 +218,7 @@ focus_tree = {
 	}
 	
 	focus = {
-		id = generic_focus_build_civ_factory
+		id = SNM_focus_build_civ_factory
 		icon = GFX_goal_generic_build_tank
 		x = 4
 		y = 1
@@ -264,7 +264,7 @@ focus_tree = {
 	}
 	
 	focus = {
-		id = generic_focus_build_mil_factory
+		id = SNM_focus_build_mil_factory
 		icon = GFX_goal_generic_construct_mil_factory
 		x = 4
 		y = 2
@@ -310,7 +310,7 @@ focus_tree = {
 	}
 	
 	focus = {
-		id = generic_focus_military_research
+		id = SNM_focus_military_research
 		icon = GFX_focus_research
 		x = 3
 		y = 3
@@ -328,7 +328,7 @@ focus_tree = {
 	}
 	
 	focus = {
-		id = generic_focus_aviation_research
+		id = SNM_focus_aviation_research
 		icon = GFX_goal_generic_air_fighter2
 		x = 2
 		y = 4
@@ -345,7 +345,7 @@ focus_tree = {
 	}
 	
 	focus = {
-		id = generic_focus_naval_research
+		id = SNM_focus_naval_research
 		icon = GFX_goal_generic_amphibious_assault
 		x = 4
 		y = 4
@@ -362,7 +362,7 @@ focus_tree = {
 	}
 	
 	focus = {
-		id = generic_focus_new_roads
+		id = SNM_focus_new_roads
 		icon = GFX_goal_generic_construction2
 		x = 6
 		y = 0
@@ -404,7 +404,7 @@ focus_tree = {
 	}
 	
 	focus = {
-		id = generic_focus_new_roads_2
+		id = SNM_focus_new_roads_2
 		icon = GFX_goal_generic_construct_infrastructure
 		x = 6
 		y = 1
@@ -447,7 +447,7 @@ focus_tree = {
 	}
 	
 	focus = {
-		id = generic_focus_new_roads_3
+		id = SNM_focus_new_roads_3
 		icon = GFX_goal_generic_construct_infrastructure
 		x = 6
 		y = 2
@@ -490,7 +490,7 @@ focus_tree = {
 	}
 	
 	focus = {
-		id = generic_focus_cotton_farms
+		id = SNM_focus_cotton_farms
 		icon = GFX_goal_anschluss
 		x = 6
 		y = 4
@@ -533,7 +533,7 @@ focus_tree = {
 	}
 	
 	focus = {
-		id = generic_focus_coal_mine
+		id = SNM_focus_coal_mine
 		icon = GFX_goal_generic_construction
 		x = 5
 		y = 5
@@ -576,7 +576,7 @@ focus_tree = {
 	}
 	
 	focus = {
-		id = generic_focus_logging_camp
+		id = SNM_focus_logging_camp
 		icon = GFX_goal_generic_construct_civilian
 		x = 7
 		y = 5
@@ -619,7 +619,7 @@ focus_tree = {
 	}
 	
 	focus = {
-		id = generic_focus_improve_army
+		id = SNM_focus_improve_army
 		icon = GFX_goal_generic_allies_build_infantry
 		x = 9
 		y = 0
@@ -635,7 +635,7 @@ focus_tree = {
 	}
 	
 	focus = {
-		id = generic_focus_doctrines_1
+		id = SNM_focus_doctrines_1
 		icon = GFX_goal_generic_army_doctrines
 		x = 8
 		y = 1
@@ -652,7 +652,7 @@ focus_tree = {
 	}
 	
 	focus = {
-		id = generic_focus_doctrines_2
+		id = SNM_focus_doctrines_2
 		icon = GFX_goal_generic_army_doctrines
 		x = 8
 		y = 2
@@ -669,7 +669,7 @@ focus_tree = {
 	}
 	
 	focus = {
-		id = generic_focus_new_weapons
+		id = SNM_focus_new_weapons
 		icon = GFX_goal_generic_army_artillery
 		x = 10
 		y = 1
@@ -686,7 +686,7 @@ focus_tree = {
 	}
 	
 	focus = {
-		id = generic_focus_intel_staff
+		id = SNM_focus_intel_staff
 		icon = GFX_goal_generic_cavalry
 		x = 10
 		y = 2
@@ -703,7 +703,7 @@ focus_tree = {
 	}
 	
 	focus = {
-		id = generic_focus_better_staff
+		id = SNM_focus_better_staff
 		icon = GFX_goal_generic_alliance
 		x = 9
 		y = 3
@@ -720,7 +720,7 @@ focus_tree = {
 	}
 	
 	focus = {
-		id = generic_focus_support_corps
+		id = SNM_focus_support_corps
 		icon = GFX_goal_generic_national_unity
 		x = 9
 		y = 5
@@ -738,7 +738,7 @@ focus_tree = {
 	}
 	
 	focus = {
-		id = generic_focus_navy
+		id = SNM_focus_navy
 		icon = GFX_goal_generic_navy_battleship
 		x = 13
 		y = 0
@@ -757,7 +757,7 @@ focus_tree = {
 	}
 	
 	focus = {
-		id = generic_focus_naval_dockyards
+		id = SNM_focus_naval_dockyards
 		icon = GFX_goal_generic_construct_naval_dockyard
 		x = 12
 		y = 1
@@ -792,7 +792,7 @@ focus_tree = {
 	}
 	
 	focus = {
-		id = generic_focus_naval_innovation
+		id = SNM_focus_naval_innovation
 		icon = GFX_goal_generic_navy_doctrines_tactics
 		x = 14
 		y = 1
@@ -809,7 +809,7 @@ focus_tree = {
 	}
 	
 	focus = {
-		id = generic_focus_fleet_infrastructure
+		id = SNM_focus_fleet_infrastructure
 		icon = GFX_goal_generic_navy_cruiser
 		x = 14
 		y = 2
@@ -826,7 +826,7 @@ focus_tree = {
 	}
 	
 	focus = {
-		id = generic_focus_naval_dockyards_2
+		id = SNM_focus_naval_dockyards_2
 		icon = GFX_goal_generic_construct_naval_dockyard
 		x = 12
 		y = 2
@@ -861,7 +861,7 @@ focus_tree = {
 	}
 	
 	focus = {
-		id = generic_focus_victorian_air_corps
+		id = SNM_focus_victorian_air_corps
 		icon = GFX_goal_generic_build_airforce
 		x = 11
 		y = 4
