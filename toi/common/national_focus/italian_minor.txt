@@ -1121,8 +1121,11 @@ focus_tree = {
 			focus = ITA_minor_victory_gained
 		}
 		completion_reward = {
-			load_focus_tree = italy_focus
-			set_cosmetic_tag = PIE_focus_ITA
+			custom_effect_tooltip = ITA_minor_form_italy
+			hidden_effect = {
+				load_focus_tree = italy_focus
+				set_cosmetic_tag = PIE_focus_ITA
+			}
 		}
 	}
 }
